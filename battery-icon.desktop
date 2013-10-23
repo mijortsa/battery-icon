@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Battery Icon
+Version=1.0
+Exec=/usr/share/battery-icon/battery-icon.py
+Icon=gpm-primary-charged
+Terminal=false
+Type=Application
+Categories=GTK;Settings;DesktopSettings
+OnlyShowIn=GNOME
+StartupNotify=true

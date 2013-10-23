@@ -1,0 +1,5 @@
+battery-icon.py /usr/share/battery-icon/
+battery.svg /usr/share/battery-icon/
+icons/*.svg /usr/share/battery-icon/icons/
+battery-icon /usr/bin/
+battery-icon.desktop /etc/xdg/autostart/

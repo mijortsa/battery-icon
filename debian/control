@@ -1,0 +1,16 @@
+Source: battery-icon
+Section: optional
+Priority: extra
+Maintainer: mijortsa <azis.astrojim@surabaya.di.blankon.in>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: https://github.com/mijortsa/battery-icon
+VCS-git: git://github.com/mijortsa/battery-icon.git
+VCS-Browser: https://github.com/mijortsa/battery-icon
+
+Package: battery-icon
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, python2.7
+Description: battery indicator status
+ A simple yet powerful tray icon using
+ integrated with gnome-control-center power
