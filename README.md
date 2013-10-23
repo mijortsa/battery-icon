@@ -1,8 +1,8 @@
 battery-icon
 ============
 
-  A simple yet powerful tray icon using
-  integrated with gnome-control-center power
+A simple yet powerful tray icon using: ACPI,
+integrated link power setting open gnome-control-center power 
 
   Fork from https://github.com/phragment/tp-battery-icon
   Thanks to : Thomas Krug
