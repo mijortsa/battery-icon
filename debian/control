@@ -12,5 +12,5 @@ Package: battery-icon
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}, python2.7
 Description: battery indicator status
- A simple yet powerful tray icon using
+ A simple yet powerful tray icon using: ACPI
  integrated with gnome-control-center power
