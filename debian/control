@@ -2,7 +2,7 @@ Source: battery-icon
 Section: optional
 Priority: extra
 Maintainer: mijortsa <azis.astrojim@surabaya.di.blankon.in>
-Build-Depends: debhelper (>= 8.0.0)
+Build-Depends: debhelper (>= 8.0.0), cdbs
 Standards-Version: 3.9.3
 Homepage: https://github.com/mijortsa/battery-icon
 VCS-git: git://github.com/mijortsa/battery-icon.git
